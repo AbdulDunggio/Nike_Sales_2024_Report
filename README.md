@@ -14,3 +14,13 @@ On this dashboard, information is provided in the form of infographics. This inf
 <img src = https://github.com/AbdulDunggio/Nike_Sales_2024_Report/blob/main/img-src/TheDashboard.png>
 </p>
 The picture above is a graphic presentation that can represent the entire content of the data. Here is more information from the dashboard above.
+
+<p align ='center'>
+<img src = https://github.com/AbdulDunggio/Nike_Sales_2024_Report/blob/main/img-src/infosales.png
+</p>
+  
+The figure above shows the total amount of nike brand revenue throughout 2024, which reached 5 billion US dollars. About **70%** of the total revenue comes from revenue from online product sales. The sizable contribution to the online sales figure shows that e-commerce involvement has a major influence on Nike's annual revenue. The contribution of online stores can be analyzed over a monthly period as shown in the following figure.
+
+<p align ='center'>
+<img src = https://github.com/AbdulDunggio/Nike_Sales_2024_Report/blob/main/img-src/online_contribution.png
+</p>
