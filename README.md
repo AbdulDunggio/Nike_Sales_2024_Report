@@ -34,5 +34,20 @@ The information above shows the revenue of the Nike brand in monthly periods. To
 As explained in the background above, the Nike brand is the largest supplier of several products such as footwear, apparel, and other equipment. The chart above shows Nike's largest revenue by product category. Based on the data above, it is known that the category that provides the highest percentage of Nike's revenue in 2024 is equipment with a contribution of **35.27%** of monthly revenue. In this data, the above categories are the main categories and each main category has sub-categories. The sub-categories can be seen in the following graph.
 
 <p align ='center'>
-<img src = https://github.com/AbdulDunggio/Nike_Sales_2024_Report/blob/main/img-src/revenue20%by20%subcategory.png>
+<img src = https://github.com/AbdulDunggio/Nike_Sales_2024_Report/blob/main/img-src/revenue%20by%20subcategory.png>
 </p>
+The graph above shows some information that the main category of footwear has sub-categories including running, basketball, football, lifestyle, cricket. the equipment category has sub-categories of socks, bags, and accessories. The apparel category has sub-categories of performance, tops, and outerwear. In quantity, it can be seen that the outerwear sub-category has the highest contribution to the Nike brand revenue in 2024. However, this number cannot boost the apparel category to become the highest category in nike's annual revenue.
+
+<p align ='center'>
+<img src = https://github.com/AbdulDunggio/Nike_Sales_2024_Report/blob/main/img-src/piechartbig.png>
+</p>
+The products sold by Nike have quite a variety of prices. Therefore, this data classifies prices in three classes: budget, mid-range, and premium. The graph above shows that the contribution of the price class to the nike brand product does not have a significant difference so it needs to be further analyzed whether the customer assesses the nike brand as a quality brand so that whatever the price class the customer still comes to buy it.
+
+<p align ='center'>
+<img src = https://github.com/AbdulDunggio/Nike_Sales_2024_Report/blob/main/img-src/barregion.png>
+</p>
+
+The graph above shows Nike's annual revenue by region. Based on the graph, the regions that contribute to Nike's annual revenue are Greater China, Japan, America, India, South Korea, Europe, and Southeast Asia. Based on this information, it shows that not all regions are involved in Nike's annual revenue in this data such as the regions of Central Asia, Africa, Australia, and Oceania. The graph shows that the region that contributes the highest to Nike's annual revenue is the Greater China region with a value exceeding 800 million US dollars.
+
+## Conclusion
+Based on the graphical presentation that has been explained, it can be concluded that online sales contribute greatly to Nike's annual revenue. In addition, the product category that contributes highly to revenue is the equipment category. Although the equipment category has the highest contribution, the outerwear sub-category of the apparel category contributes the highest to annual revenue. The absence of significant differences in price class differences in annual revenue suggests the need for further analysis of nike's product quality. The region that has the highest contribution to nike's annual revenue is greater china.
