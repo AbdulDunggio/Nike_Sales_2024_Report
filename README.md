@@ -8,8 +8,9 @@ Nike is an American company engaged as a supplier of sports shoes, athletic appa
 The author obtained data on the global sales report of the Nike brand in 2024 at kaggle.com. This web is an online platform that provides various resources such as datasets to learn about data analysis, machine learning, and artificial intelligence. This dataset is publicly available and can be accessed by everyone.
 
 ## The Dashboard
-On this dashboard, information is provided in the form of infographics. This information is the result of the author's analysis of the datasets used including month, region, product category, product sub-category, and product line from Nike. Other information is also the number of products sold, the amount of revenue, and the percentage of products sold online.
+On this dashboard, information is provided in the form of infographics. This information is the result of the author's analysis of the datasets used including month, region, product category, product sub-category, and product line from Nike. Other information is also the number of products sold, the amount of revenue, and the percentage of products sold online. The author analyzes this data using Microsoft Excel 2019 tools and uses features including pivot tables and dynamic text.
 
 <p align ='center'>
-<img src = 
+<img src = https://github.com/AbdulDunggio/Nike_Sales_2024_Report/blob/main/img-src/TheDashboard.png>
 </p>
+The picture above is a graphic presentation that can represent the entire content of the data. Here is more information from the dashboard above.
