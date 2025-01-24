@@ -9,3 +9,7 @@ The author obtained data on the global sales report of the Nike brand in 2024 at
 
 ## The Dashboard
 On this dashboard, information is provided in the form of infographics. This information is the result of the author's analysis of the datasets used including month, region, product category, product sub-category, and product line from Nike. Other information is also the number of products sold, the amount of revenue, and the percentage of products sold online.
+
+<p align ='center'>
+<img src = 
+</p>
